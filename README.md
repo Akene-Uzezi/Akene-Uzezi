@@ -3,7 +3,7 @@
 ### A passionate Web Developer
 
 # 💫 About Me:
-<br><br>🌱 I'm currently learning AI engineering, Typescript, Rate Limiting, Caching, DevOps<br><br>👯 I'm looking to collaborate on ambitious ideas<br><br>💬 Ask me about Express.js, Node.js, Software Engineering<br><br>📫 How to reach me xtremejoexj@gmail.com<br>
+<br><br>🌱 I'm currently learning AI engineering, System Design, Data Structures and Algorithms, DevOps<br><br>👯 I'm looking to collaborate on ambitious ideas<br><br>💬 Ask me about Express.js, Node.js, Software Engineering<br><br>📫 How to reach me xtremejoexj@gmail.com<br>
 
 
 ## 🌐 Socials:
